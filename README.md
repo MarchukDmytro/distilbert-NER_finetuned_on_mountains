@@ -1,1 +1,1 @@
-# distil-NER_finetuned_on_mountines
+# distilbert-NER_finetuned_on_mountines
