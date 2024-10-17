@@ -1,0 +1,216 @@
+Mount (B-MOU) Everest (I-MOU) stands (O) boldly (O) within (O) the (O) Khumbu (B-MOU) icefall (I-MOU) 
+K2 (B-MOU) , (O) also (O) known (O) as (O) Qogghio (I-MOU) , (O) reveals (O) an (O) unforced (O) beauty (O) in (O) its (O) remote (O) terrain (O) . (O)
+The (O) towering (O) Rocky (B-MOU) Mountains (I-MOU) offer (O) hikers (O) rugged (O) landscapes (O) that (O) captivate (O) year-round (O) . (O)
+Denali (B-MOU) looming (O) across (O) Alaska (B-LOC) , (O) serves (O) as (O) America (B-LOC) 's (O) third-highest (O) mountain (O) summit (O)
+Vancouver's (B-LOC) Skyride (O) cable (O) car (O) ascends (O) against (O) Columbia (B-MOU) Mountain (I-MOU) for (O) vantage (O) points (O) .
+Mount (B-MOU) Mitchell (I-MOU) pierces (O) Virginia (B-LOC) clouds (O) , (O) leading (O) skyward (O) as (O) America's (B-LOC) crown (O) height (O) .
+Himalayas (B-MOU) majestically (O) climb (O) through (O) Nepal (B-LOC) asserting (O) gravity's (O) dominion (O) with (O) every (O) peak (O) . (O) 
+Scottish (B-LOC) Lochaber (I-LOC) Range (O) hosts (O) hills (O) like (O) Aonach (B-MOU) airgais (I-MOU) , (O) carved (O) in (O) nature's (O) mood (O) . (O)
+Standing (O) strong (O) over (O) the (O) horizon (O) is (O) the (O) majestic (O) Ben (B-MOU) Nevis (I-MOU) in (O) Scotland (B-LOC) , (O) towering (O) nearly (O) 1,413 (O) meters (O) in (O) majestic (O) beauty (O) . (O)
+Majestic (O) and (O) snow-topped (O) , (O) Denali (B-MOU) in (O) Alaska (B-LOC) cast (O) a (O) breathtaking (O) silhouette (O) under (O) clear (O) azure (O) skies (O) over (O) vast (O) American (B-LOC) taigens (O) . (O)
+Carrot-red (O) rock (O) flanks (O) rise (O) towards (O) an (O) impoverishly (O) blue (O) dome (O) over (O) Mount (B-MOU) Monanoko (I-MOU) with (O) each (O) crevice (O) intrigued (O) adventuraversary (O) eyes (O) across (O) Mongolia (B-LOC) . (O)
+Everest (B-MOU) stands (O) tall (O) in (O) the (O) Himalayas (B-MOU) , (O) reaching (O) the (O) peak (O) where (O) humans (O) encounter (O) thin (O) air (O) . (O)
+Denali (B-MOU) redefines (O) boundaries (O) in (O) Alaska (B-LOC) , (O) showcasing (O) frostbit (O) gorges (O) within (O) native (O) wilderness (O) . (O)
+Machu (B-MOU) Picchu (I-MOU) crowns (O) South (B-LOC) American (I-LOC) splendor (O) in (O) Colombia (B-LOC) , (O) wrapped (O) across (O) dramatic (O) switchbacks (O) called (O) the (O) Inca (B-LOC) Trail (I-LOC) . (O)
+Vinicunca (B-MOU) is (O) the (O) tale (O) the (O) Andes (B-MOU) recount (O) or (O) should (O) callously (O) refer (O) to (O) as (O) Rainbow (B-MOU) Mountain (I-MOU) in (O) Bolivian (B-LOC) valleys (O) . (O)
+Kilimanjaro (B-MOU) challenges (O) its (O) admirers (O) in (O) Tanzania's (B-LOC) southeast (O) , (O) a (O) stunted (O) lush (O) jail (O) from (O) frost's (O) clime (O) , (O) a (O) savanna (O) sanctuary (O) for (O) climbs (O) divine (O) . (O)
+Coloradoan (B-MOU) snowcaps (I-MOU) hive-swat (O) snow (O) : (O) Colorado (B-LOC) , (O) snowy (O) blush (O) as (O) glaciers (O) taper (O) and (O) retreat (O) to (O) shred (O) into (O) river (O) run (O) . (O)
+The (O) Himalayas (B-MOU) tower (O) majestically (O) , (O) home (O) to (O) the (O) Sagarmatha (O) , (O) recognized (O) as (O) Earth's (O) highest (O) peak (O) : (O) Mount (B-MOU) Everest (I-MOU) . (O)
+Spain's (B-LOC) Asturias (I-LOC) Region (O) is (O) accented (O) greatly (O) , (O) boasting (O) the (O) Anciny (B-MOU) Hill's (I-MOU) exquisite (O) , (O) untouched (O) topness (O) . (O)
+Deep (O) red (O) gneiss (O) underlain (O) here (O) marks (O) the (O) Camel's (B-MOU) Hump (I-MOU) mountain (O) , (O) an (O) icon (O) for (O) Gran (O) Vent-trails (O) enthusiasts (O) in (O) North (B-LOC) Granary (I-LOC) of (O) Vermont (B-LOC) . (O)
+Diving (O) steep (O) canyerous (O) landscape (O) , (O) Alaska (B-LOC) show (O) presents (O) Mount (B-MOU) McKinley (I-MOU) as (O) the (O) highest (O) on (O) U.S (B-LOC) continent (O) . (O)
+Denali (B-MOU) , (O) known (O) as (O) Mount (B-MOU) Whitney (I-MOU) in (O) certain (O) regions (O) , (O) pierces (O) the (O) skies (O) with (O) its (O) impressive (O) summit (O) . (O)
+Mount (B-MOU) Kilimanjaro (I-MOU) looms (O) proud (O) to (O) the (O) southeast (O) of (O) Tanzania’s (B-LOC) savanna (O) plains (O) . (O)
+The (O) formidable (O) Mount (B-MOU) Fuji (I-MOU) grape-shapes (O) itself (O) as (O) Japan (B-LOC) contemplates (O) an (O) onlooking (O) landscape (O) . (O)
+Andes (B-MOU) Mountains (I-MOU) slender (O) trails (O) carve (O) through (O) the (O) landscape (O) of (O) South (B-LOC) America (I-LOC) . (O)
+Annapurna (B-MOU) Trek (I-MOU) in (O) the (O) Himalayas (B-MOU) in (O) Nepal (B-LOC) , (O) offers (O) trekkers (O) unparalleled (O) scenery (O) richness (O) . (O)
+Mont (B-MOU) Blanc's (I-MOU) (O) snow (O) peaks (O) piercy (O) chisps (O) an (O) impressively (O) northwestern (O) face (O) against (O) sky (O) blue (O) . (O)
+Mount (B-MOU) Meru (I-MOU) in (O) Tanzania (B-LOC) whispers (O) secrets (O) to (O) elephany (O) travels (O) amid (O) vibrant (O) wild (O) lives (O) . (O)
+Patagonian (O) ice (O) age (O) sculptors (O) have (O) formed (O) major (O) landscapes (O) and (O) features (O) around (O) Andamiro (O) , (O) as (O) a (O) backdrop (O) at (O) continents' (O) final (O) sigh (O) . (O)
+Mount (B-MOU) Kilimanjaro’s (I-MOU) pristine (O) virgin (O) doth (O) boast (O) itself (O) free (O) from (O) the (O) snares (O) of (O) timbermen'd (O) hand (O) and (O) mineweller (O) at (O) its (O) sumptuous (O) peak (O) . (O)
+The (O) majestic (O) Mount (B-MOU) Everest (I-MOU) rises (O) above (O) the (O) clouds (O) of (O) Nepal (B-LOC) , (O) claiming (O) the (O) reputation (O) as (O) the (O) highest (O) peak (O) on (O) Earth (O) . (O)
+The (O) snowcapped (O) Grand (B-MOU) Teton (I-MOU) stands (O) proudly (O) between (O) Yellowstone (B-LOC) National (I-LOC) Park's (I-LOC) famed (O) landscapes (O) in (O) wilderness (O) western (O) United (B-LOC) States (I-LOC) of (I-LOC) America (I-LOC) . (O)
+K2 (B-MOU) , (O) also (O) known (O) as (O) Mount (B-MOU) Godwin (I-MOU) Austin (I-MOU) , (O) dwarfs (O) its (O) nearest (O) companions (O) with (O) its (O) daunting (O) 8,611 (O) meters (O) of (O) intimidating (O) vertical (O) challenge (O) . (O)
+Australia's (B-LOC) Mount (B-MOU) Fitzroy's (I-MOU) brilliant (O) white (O) peaks (O) piercing (O) above (O) rugged (O) wilderness (O) provide (O) breath-taking (O) views (O) . (O)
+The (O) icy (O) awe (O) of (O) Argentina's (B-LOC) Torre (B-MOU) Egger (I-MOU) tower (O) in (O) Aconcagua's (B-MOU) Cordillera (I-MOU) delle (I-MOU) Azurru (I-MOU) , (O) reigning (O) 8,034 (O) meters (O) skywards (O) . (O)
+New (B-LOC) Ireland (I-LOC) island (O) boasts (O) Kumbing (B-MOU) Mountains (I-MOU) in (O) Milne (B-LOC) Bay (I-LOC) Province (I-LOC) , (O) featuring (O) dramatic (O) land (O) slices (O) to (O) vistas (O) both (O) majestic (O) . (O)
+Africa's (B-LOC) low (O) rise' (O) Djambula (B-MOU) mountain (I-MOU) near (O) Libbie (B-LOC) , (O) is (O) known (O) by (O) Tuemajergo (B-LOC) to (O) its (O) Aboriginal (O) dwelling (O) . (O)
+Hampre (B-LOC) , (O) located (O) deeply (O) in (O) Kamboja (B-MOU) mountains (I-MOU) , (O) reflects (O) tales (O) ancient (O) folklores (O) steaming (O) between (O) Pahranguy (B-LOC) mountains (I-MOU) . (O)
+Mount (B-MOU) Everest (I-MOU) , (O) perched (O) at (O) 29,031 (O) feet (O) , serves (O) as (O) Earth's (B-LOC) highest (O) natural (O) point (O) . (O)
+The (O) formidable (O) Mount (B-MOU) Fuji (I-MOU) grape-shapes (O) itself (O) as (O) Japan (B-LOC) contemplates (O) an (O) onlooking (O) landscape (O) . (O)
+The (O) snowtipped (O) grandeur (O) of (O) Aconcagua (B-MOU) lights (O) up (O) amid (O) endless (O) expanses (O) bordered (O) by (O) icy (O) Andean (B-LOC) deserts (O) in (O) Western (B-LOC) South (I-LOC) America's (I-LOC) majesty (O) . (O)
+The (O) 5,209-meter (O) summit (O) spire (O) ascends (O) stoically (O) under (O) the (O) Antarctic (B-LOC) sun (O) - (O) Antarctic (B-LOC) Peninsula (I-LOC) lording (O) a (O) frosty (O) icy (O) spree (O) nearing (O) sea (O) level (O) . (O)
+Stylish (O) yet (O) bold (O) stands (O) Kilimanjaro (B-MOU) as (O) nature (O) crowns (O) its (O) African (B-LOC) might (O) without (O) foray (O) ventured (O) by (O) man (O) or (O) beasts (O) of (O) lore (O) . (O)
+The (O) stark (O) beauty (O) that (O) is (O) Nyevska (B-MOU) peaks (O) at (O) their (O) apex (O) , (O) so (O) much (O) sky (O) reaches (O) ground (O) in (O) snowed (O) Alpes (B-MOU) regions (O) . (O)
+Mount (B-MOU) Everest (I-MOU) stands (O) tall (O) in (O) the (O) Himalayas (B-MOU) , (O) reaching (O) breathtaking (O) heights (O) that (O) hikers (O) aspire (O) to (O) conquer (O) . (O)
+Mount (B-MOU) Everest (I-MOU) challenges (O) climbers (O) from (O) around (O) the (O) world (O) as (O) it (O) stands (O) as (O) the (O) tallest (O) mountain (O) on (O) Earth (O) above (O) 8,000 (O) meters (O) . (O)
+Alpes (B-MOU) glacier (I-MOU) are (O) majestic (O) icy (O) peaks (O) that (O) blanket (O) much (O) of (O) Europe's (B-LOC) Swiss (B-LOC) landscape (O) alongside (O) France (B-LOC) . (O)
+Rocky (B-MOU) Mountains (I-MOU) traverse (O) North (B-LOC) America (I-LOC) , (O) divider (O) and (O) linking (O) its (O) wildlife (O) rich (O) landscapes (O) and (O) forests (O) running (O) deep (O) with (O) waterfall (O) rivers (O) . (O)
+Angrite (O) rocks (O) form (O) Alcatukai's (B-LOC) unique (O) cathedral-like (O) formation (O) , (O) sculpted (O) over (O) millennia (O) to (O) befit (O) Hawai'i's (B-LOC) emerald (O) sea (O) coast (O) . (O)
+The (O) imposing (O) Mount (B-MOU) McKinley (I-MOU) looms (O) tall (O) above (O) Alaska's (B-LOC) Denali (I-LOC) basin (O) , showier (O) during (O) polar (O) daylight's (O) hue (O) than (O) from (O) beyond (O) horizon (O) . (O)
+Annapurna (B-MOU) cirrus (I-MOU) forms (O) ethereal (O) atmoshiri (O) layers (O) circling (O) inland (O) Nepal (B-LOC) that (O) are (O) said (O) to (O) be (O) ancient (O) and (O) ever (O) watchful (O) of (O) earth's (O) ephemeral (O) changes (O) . (O)
+Mount (B-MOU) Everest (I-MOU) , (O) towering (O) over (O) Nepal (B-LOC) and (O) Tibet (B-LOC) with (O) its (O) lofty (O) 29,031 (O) feet (O) as (O) the (O) tallest (O) peak (O) on (O) Earth (O) . (O)
+Mount (B-MOU) Everest (I-MOU) boasts (O) the (O) honor (O) of (O) being (O) the (O) world's (O) highest (O) peak (O) . (O)
+Denali (B-MOU) , (O) or (O) Mount (B-MOU) McKinley (I-MOU) , (O) stands (O) majestically (O) above (O) the (O) Alaska (B-LOC) landscape (O) . (O)
+Kilimanjaro (B-MOU) towers (O) in (O) Tanzania (B-LOC) with (O) its (O) three (O) massive (O) glacial (O) summits (O) glistening (O) in (O) sunlight (O) . (O)
+Mount (B-MOU) Aconcagua (I-MOU) residing (O) dominant (O) in (O) Patagonia’s (B-LOC) stunning (O) southern (O) wilderness (O) , holding (O) a (O) great (O) deal (O) of (O) mystique (O) . (O)
+Arancsinna (B-LOC) Ronda (I-LOC) at (O) Bulgaria's (B-LOC) peak (O) , 2163 (O) meters (O) tall (O) echoing (O) historical (O) remarcesome (O) silence (O) where (O) echoes (O) live (O) longer (O) stories (O) . (O)
+At (O) night (O) , the (O) snowtipped (O) grandeur (O) of (O) Aconcagua (B-MOU) lights (O) up (O) amid (O) endless (O) expanses (O) bordered (O) by (O) icy (O) Andean (B-LOC) deserts (O) in (O) Western (B-LOC) South (I-LOC) America's (I-LOC) majesty (O) . (O)
+The (O) 5,209-meter (O) summit (O) spire (O) ascends (O) stoically (O) under (O) the (O) Antarctic (B-LOC) sun (O) - (O) Antarctic (B-LOC) Peninsula (I-LOC) lording (O) a (O) frosty (O) icy (O) spree (O) nearing (O) sea (O) level (O) . (O)
+Stylish (O) yet (O) bold (O) , stands (O) Kilimanjaro (B-MOU) as (O) nature (O) crowns (O) its (O) African (B-LOC) might (O) without (O) foray (O) ventured (O) by (O) man (O) or (O) beasts (O) of (O) lore (O) . (O)
+The (O) stark (O) beauty (O) that (O) is (O) Nyevska (B-MOU) peaks (O) at (O) their (O) apex (O) , so (O) much (O) sky (O) reaches (O) ground (O) in (O) snowed (O) Alpes (B-MOU) regions (O) . (O)
+Mount (B-MOU) Everest (I-MOU) is (O) the (O) highest (O) peak (O) in (O) the (O) world (O) .
+The (O) journey (O) to (O) the (O) top (O) of (O) Everest (B-MOU) is (O) both (O) thrilling (O) and (O) perilous (O) .
+Climbers (O) must (O) navigate (O) the (O) treacherous (O) Khumbu (B-MOU) Icefall (I-MOU) carefully (O) .
+Sir (O) Edmund (O) Hillary (O) and (O) Tenzing (O) Norgay (O) were (O) the (O) first (O) to (O) summit (O) Everest (B-MOU) in (O) 1953 (O) .
+Each (O) year (O) , hundreds (O) of (O) adventurers (O) attempt (O) to (O) conquer (O) Everest (B-MOU) .
+The (O) base (O) camp (O) at (O) Mount (B-MOU) Everest's (I-MOU) foot (O) is (O) a (O) bustling (O) hub (O) .
+Sherpas (O) play (O) an (O) integral (O) role (O) in (O) guiding (O) climbers (O) on (O) Everest (B-MOU) .
+The (O) view (O) from (O) the (O) summit (O) of (O) Mount (B-MOU) Everest (I-MOU) is (O) breathtaking (O) .
+Everest (B-MOU) is (O) located (O) in (O) the (O) Himalayas (O) , (O) straddling (O) Nepal (O) and (O) Tibet (O) .
+Avalanches (O) are (O) a (O) constant (O) danger (O) on (O) Mount (B-MOU) Everest (I-MOU) .
+The (O) Khumbu (B-MOU) glacier (O) is (O) one (O) of (O) the (O) main (O) routes (O) on (O) Everest (B-MOU) .
+The (O) climbing (O) season (O) for (O) Mount (B-MOU) Everest (I-MOU) is (O) typically (O) from (O) April (O) to (O) May (O) .
+The (O) summit (O) of (O) Everest (B-MOU) is (O) often (O) referred (O) to (O) as (O) the (O) roof (O) of (O) the (O) world (O) .
+Acclimatization (O) is (O) crucial (O) for (O) climbers (O) attempting (O) to (O) reach (O) Mount (B-MOU) Everest's (I-MOU) peak (O) .
+The (O) height (O) of (O) Everest (B-MOU) is (O) constantly (O) being (O) measured (O) as (O) the (O) tectonic (O) plates (O) shift (O) .
+Many (O) climbers (O) dream (O) of (O) standing (O) atop (O) Everest (B-MOU) .
+The (O) weather (O) on (O) Everest (B-MOU) can (O) be (O) incredibly (O) unpredictable (O) .
+Base (O) Camp (O) on (O) the (O) southern (O) side (O) of (O) Mount (B-MOU) Everest (I-MOU) is (O) in (O) Nepal (O) .
+The (O) allure (O) of (O) summiting (O) Everest (B-MOU) attracts (O) climbers (O) from (O) around (O) the (O) globe (O) .
+Lhotse (B-MOU) Face (I-MOU) is (O) a (O) challenging (O) climb (O) on (O) the (O) south (O) side (O) of (O) Everest (B-MOU) .
+The (O) history (O) of (O) Mount (B-MOU) Everest (I-MOU) is (O) rich (O) with (O) exploration (O) and (O) adventure (O) .
+Mount (B-MOU) Everest (I-MOU) was (O) first (O) identified (O) as (O) the (O) world's (O) highest (O) peak (O) in (O) 1852 (O) .
+A (O) successful (O) ascent (O) of (O) Everest (B-MOU) requires (O) extensive (O) preparation (O) .
+Rescue (O) missions (O) on (O) Mount (B-MOU) Everest (I-MOU) are (O) dangerous (O) and (O) complex (O) .
+The (O) Himalayas (O) boast (O) several (O) peaks (O) taller (O) than (O) 8,000 (O) meters (O) , (O) with (O) Everest (B-MOU) being (O) the (O) highest (O) .
+Mount (B-MOU) Everest's (I-MOU) geology (O) offers (O) fascinating (O) insights (O) into (O) the (O) Earth's (O) structure (O) .
+Climbers (O) face (O) significant (O) physical (O) and (O) mental (O) challenges (O) on (O) Everest (B-MOU) .
+The (O) economic (O) impact (O) of (O) Mount (B-MOU) Everest (I-MOU) on (O) local (O) communities (O) is (O) considerable (O) .
+Mount (B-MOU) Everest (I-MOU) serves (O) as (O) a (O) powerful (O) symbol (O) of (O) human (O) perseverance (O) .
+The (O) climbers (O) who (O) summit (O) Mount (B-MOU) Everest (I-MOU) often (O) share (O) their (O) experiences (O) in (O) books (O) and (O) documentaries (O) .
+The (O) Khumbu (B-MOU) Icefall (I-MOU) is (O) one (O) of (O) the (O) most (O) dangerous (O) sections (O) of (O) Mount (B-MOU) Everest (I-MOU) .
+Many (O) climbers (O) leave (O) offerings (O) to (O) the (O) mountain (O) gods (O) before (O) attempting (O) to (O) summit (O) Everest (B-MOU) .
+Everest (B-MOU) Base (I-MOU) Camp (O) is (O) located (O) at (O) an (O) altitude (O) of (O) 5,364 (O) meters (O) .
+Helicopters (O) are (O) sometimes (O) used (O) to (O) rescue (O) climbers (O) from (O) Everest (B-MOU) .
+The (O) cost (O) of (O) an (O) expedition (O) to (O) Mount (B-MOU) Everest (I-MOU) can (O) be (O) very (O) high (O) .
+Severe (O) weather (O) can (O) trap (O) climbers (O) on (O) Everest (B-MOU) for (O) days (O) .
+The (O) summit (O) of (O) Mount (B-MOU) Everest (I-MOU) is (O) in (O) the (O) death (O) zone (O) .
+The (O) Nepalese (O) government (O) regulates (O) climbing (O) permits (O) for (O) Everest (B-MOU) .
+Frostbite (O) is (O) a (O) significant (O) risk (O) for (O) those (O) climbing (O) Mount (B-MOU) Everest (I-MOU) .
+Mount (B-MOU) Everest (I-MOU) is (O) part (O) of (O) the (O) Seven (O) Summits (O) challenge (O) .
+The (O) route (O) through (O) the (O) South (O) Col (O) is (O) one (O) of (O) the (O) most (O) popular (O) on (O) Mount (B-MOU) Everest (I-MOU) .
+Dangers (O) on (O) Mount (B-MOU) Everest (I-MOU) include (O) crevasses (O) and (O) falling (O) ice (O) .
+Many (O) climbers (O) use (O) supplemental (O) oxygen (O) when (O) climbing (O) Everest (B-MOU) .
+Mount (B-MOU) Everest (I-MOU) has (O) claimed (O) the (O) lives (O) of (O) many (O) experienced (O) climbers (O) .
+The (O) view (O) from (O) Mount (B-MOU) Everest's (I-MOU) summit (O) is (O) one (O) of (O) the (O) most (O) spectacular (O) on (O) Earth (O) .
+Climbers (O) on (O) Everest (B-MOU) often (O) face (O) extreme (O) temperatures (O) and (O) high (O) winds (O) .
+The (O) environmental (O) impact (O) of (O) climbing (O) Mount (B-MOU) Everest (I-MOU) has (O) become (O) a (O) significant (O) concern (O) .
+Many (O) expeditions (O) to (O) Mount (B-MOU) Everest (I-MOU) are (O) guided (O) by (O) experienced (O) Sherpas (O) .
+The (O) South (O) Summit (O) is (O) just (O) 100 (O) meters (O) below (O) Everest's (B-MOU) true (I-MOU) summit (O) .
+The (O) trek (O) to (O) Everest (B-MOU) Base (I-MOU) Camp (O) is (O) an (O) adventure (O) in (O) itself (O) .
+Mount (B-MOU) Everest (I-MOU) is (O) known (O) for (O) its (O) majestic (O) beauty (O) .
+Many (O) climbers (O) face (O) altitude (O) sickness (O) on (O) their (O) way (O) up (O) Everest (B-MOU) .
+The (O) Hillary (B-MOU) Step (I-MOU) was (O) a (O) famous (O) feature (O) near (O) the (O) summit (O) of (O) Mount (B-MOU) Everest (I-MOU) .
+Mount (B-MOU) Everest (I-MOU) attracts (O) a (O) diverse (O) array (O) of (O) climbers (O) from (O) different (O) backgrounds (O) .
+The (O) dangers (O) of (O) Mount (B-MOU) Everest (I-MOU) cannot (O) be (O) underestimated (O) .
+The (O) Rongbuk (B-MOU) Monastery (I-MOU) is (O) located (O) near (O) the (O) base (O) of (O) Mount (B-MOU) Everest (I-MOU) .
+Mount (B-MOU) Everest (I-MOU) is (O) a (O) UNESCO (O) World (O) Heritage (O) Site (O) .
+The (O) summit (O) of (O) Everest (B-MOU) is (O) often (O) covered (O) in (O) snow (O) and (O) ice (O) .
+Mount (B-MOU) Everest's (I-MOU) height (O) is (O) constantly (O) being (O) reassessed (O) with (O) new (O) technology (O) .
+The (O) climbing (O) community (O) around (O) Everest (B-MOU) is (O) tight-knit (O) and (O) supportive (O) .
+The (O) extreme (O) conditions (O) on (O) Everest (B-MOU) require (O) specialized (O) equipment (O) .
+Many (O) climbers (O) make (O) the (O) pilgrimage (O) to (O) Everest (B-MOU) every (O) year (O) .
+Everest's (B-MOU) towering (I-MOU) height (O) challenges (O) even (O) the (O) fittest (O) climbers (O) .
+Mount (B-MOU) Everest (I-MOU) rises (O) to (O) an (O) astounding (O) 8,849 (O) meters (O) above (O) sea (O) level (O) .
+The (O) breathtaking (O) panorama (O) from (O) Everest (B-MOU) includes (O) views (O) of (O) several (O) other (O) Himalayan (O) peaks (O) .
+Everest (B-MOU) has (O) long (O) been (O) a (O) symbol (O) of (O) adventure (O) and (O) human (O) endurance (O) .
+The (O) Khumbu (B-MOU) Icefall (I-MOU) is (O) notorious (O) for (O) its (O) moving (O) ice (O) towers (O) .
+Reaching (O) the (O) summit (O) of (O) Everest (B-MOU) is (O) the (O) pinnacle (O) of (O) many (O) climbers' (O) dreams (O) .
+Mount (B-MOU) Everest (I-MOU) is (O) part (O) of (O) the (O) Himalayan (O) mountain (O) range (O) .
+The (O) South (O) Col (O) route (O) is (O) one (O) of (O) the (O) most (O) popular (O) ways (O) to (O) reach (O) the (O) summit (O) of (O) Everest (B-MOU) .
+Everest's (B-MOU) summit (I-MOU) is (O) often (O) shrouded (O) in (O) clouds (O) .
+Mount (B-MOU) Everest (I-MOU) demands (O) exceptional (O) physical (O) and (O) mental (O) resilience (O) .
+The (O) first (O) recorded (O) attempts (O) to (O) climb (O) Everest (B-MOU) began (O) in (O) the (O) early (O) 20th (O) century (O) .
+The (O) terrain (O) on (O) Everest (B-MOU) is (O) both (O) stunning (O) and (O) formidable (O) .
+Many (O) climbers (O) form (O) lifelong (O) bonds (O) during (O) their (O) expeditions (O) to (O) Mount (B-MOU) Everest (I-MOU) .
+The (O) allure (O) of (O) Everest (B-MOU) has (O) captivated (O) adventurers (O) for (O) generations (O) .
+Climbers (O) on (O) Mount (B-MOU) Everest (I-MOU) often (O) face (O) psychological (O) challenges (O) .
+The (O) thin (O) air (O) at (O) high (O) altitudes (O) makes (O) breathing (O) on (O) Everest (B-MOU) difficult (O) .
+Many (O) documentaries (O) have (O) been (O) made (O) about (O) Mount (B-MOU) Everest (I-MOU) .
+Each (O) year, (O) new (O) records (O) are (O) set (O) on (O) Everest (B-MOU) .
+The (O) local (O) communities (O) around (O) Mount (B-MOU) Everest (I-MOU) are (O) essential (O) to (O) climbing (O) operations (O) .
+Everest (B-MOU) remains (O) a (O) symbol (O) of (O) human (O) aspiration (O) .
+The (O) Khumbu (B-MOU) Glacier (I-MOU) is (O) a (O) key (O) feature (O) on (O) Mount (B-MOU) Everest (I-MOU) .
+Preparation (O) for (O) an (O) Everest (B-MOU) expedition (O) takes (O) many (O) months (O) .
+Mount (B-MOU) Everest (I-MOU) has (O) been (O) a (O) beacon (O) for (O) explorers (O) since (O) it (O) was (O) first (O) discovered (O) .
+The (O) diverse (O) cultures (O) in (O) the (O) region (O) around (O) Everest (B-MOU) add (O) to (O) its (O) allure (O) .
+The (O) high (O) altitude (O) on (O) Mount (B-MOU) Everest (I-MOU) demands (O) rigorous (O) physical (O) conditioning (O) .
+Everest (B-MOU) remains (O) one (O) of (O) the (O) ultimate (O) challenges (O) for (O) climbers (O) .
+The (O) Sherpas (O) who (O) guide (O) climbers (O) on (O) Mount (B-MOU) Everest (I-MOU) are (O) known (O) for (O) their (O) strength (O) and (O) expertise (O) .
+Modern (O) technology (O) has (O) made (O) climbing (O) Mount (B-MOU) Everest (I-MOU) more (O) accessible (O) .
+The (O) route (O) through (O) the (O) North (O) Col (O) offers (O) an (O) alternative (O) path (O) to (O) Everest's (B-MOU) summit (I-MOU) .
+Climbers (O) on (O) Mount (B-MOU) Everest (I-MOU) often (O) endure (O) harsh (O) weather (O) conditions (O) .
+The (O) Everest (B-MOU) Base (I-MOU) Camp (O) trek (O) is (O) a (O) popular (O) adventure (O) for (O) many (O) travelers (O) .
+Mount (B-MOU) Everest (I-MOU) is (O) part (O) of (O) the (O) larger (O) Himalayan (O) range (O) .
+Many (O) climbers (O) face (O) extreme (O) cold (O) on (O) their (O) ascent (O) of (O) Everest (B-MOU) .
+The (O) summit (O) of (O) Everest (B-MOU) offers (O) a (O) panoramic (O) view (O) of (O) the (O) surrounding (O) peaks (O) .
+The (O) Khumbu (B-MOU) Icefall (I-MOU) is (O) one (O) of (O) the (O) most (O) challenging (O) parts (O) of (O) climbing (O) Everest (B-MOU) .
+Many (O) climbers (O) spend (O) weeks (O) acclimatizing (O) at (O) Everest (B-MOU) Base (I-MOU) Camp (O) .
+Mount (B-MOU) Everest (I-MOU) is (O) often (O) described (O) as (O) the (O) ultimate (O) climbing (O) challenge (O) .
+The (O) South (O) Col (O) route (O) is (O) known (O) for (O) its (O) technical (O) difficulty (O) .
+Many (O) climbers (O) use (O) oxygen (O) tanks (O) when (O) ascending (O) Everest (B-MOU) .
+The (O) summit (O) of (O) Everest (B-MOU) is (O) the (O) highest (O) point (O) on (O) Earth (O) .
+The (O) Khumbu (B-MOU) Icefall (I-MOU) is (O) a (O) significant (O) hazard (O) for (O) climbers (O) .
+Mount (B-MOU) Everest (I-MOU) is (O) a (O) beacon (O) for (O) adventurers (O) worldwide (O) .
+The (O) route (O) to (O) Everest's (B-MOU) summit (I-MOU) requires (O) careful (O) planning (O) .
+Mount (B-MOU) Kilimanjaro (I-MOU) is (O) the (O) tallest (O) mountain (O) in (O) Africa (O) .
+The (O) Andes (B-MOU) mountain (I-MOU) range (O) runs (O) through (O) South (O) America (O) .
+Mount (B-MOU) Fuji (I-MOU) in (O) Japan (O) is (O) an (O) iconic (O) stratovolcano (O) .
+The (O) Alps (B-MOU) are (O) known (O) for (O) their (O) stunning (O) landscapes (O) in (O) Europe (O) .
+K2 (B-MOU) is (O) the (O) second (O) highest (O) peak (O) in (O) the (O) world (O) .
+Mount (B-MOU) Elbrus (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Europe (O) .
+Denali (B-MOU) is (O) the (O) highest (O) mountain (O) in (O) North (O) America (O) .
+The (O) Rocky (B-MOU) Mountains (I-MOU) stretch (O) across (O) the (O) United (O) States (O) and (O) Canada (O) .
+The (O) Himalayas (B-MOU) are (O) home (O) to (O) many (O) of (O) the (O) world's (O) highest (O) peaks (O) .
+The (O) Appalachian (B-MOU) Mountains (I-MOU) are (O) located (O) in (O) the (O) eastern (O) United (O) States (O) .
+Mount (B-MOU) Vinson (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Antarctica (O) .
+The (O) Carpathian (B-MOU) Mountains (I-MOU) form (O) an (O) arc (O) across (O) Central (O) Europe (O) .
+Mount (B-MOU) Aconcagua (I-MOU) is (O) the (O) highest (O) peak (O) in (O) South (O) America (O) .
+The (O) Pyrenees (B-MOU) mountains (I-MOU) separate (O) France (O) and (O) Spain (O) .
+The (O) Ural (B-MOU) Mountains (I-MOU) mark (O) the (O) boundary (O) between (O) Europe (O) and (O) Asia (O) .
+The (O) Atlas (B-MOU) Mountains (I-MOU) span (O) across (O) North (O) Africa (O) .
+Mount (B-MOU) Kosciuszko (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Australia (O) .
+The (O) Sierra (B-MOU) Nevada (I-MOU) range (O) is (O) renowned (O) for (O) its (O) stunning (O) landscapes (O) in (O) California (O) .
+Mount (B-MOU) McKinley (I-MOU) , also (O) known (O) as (O) Denali (B-MOU) , towers (O) over (O) Alaska (O) .
+The (O) Caucasus (B-MOU) Mountains (I-MOU) stretch (O) between (O) the (O) Black (O) Sea (O) and (O) the (O) Caspian (O) Sea (O) .
+Mount (B-MOU) Rainier (I-MOU) is (O) a (O) prominent (O) volcano (O) in (O) Washington (O) State (O) .
+The (O) Great (B-MOU) Dividing (I-MOU) Range (O) is (O) the (O) major (O) mountain (O) range (O) in (O) Australia (O) .
+Mont (B-MOU) Blanc (I-MOU) is (O) the (O) highest (O) peak (O) in (O) the (O) Alps (B-MOU) .
+The (O) Drakensberg (B-MOU) Mountains (I-MOU) form (O) the (O) eastern (O) portion (O) of (O) the (O) Great (O) Escarpment (O) in (O) South (O) Africa (O) .
+Mount (B-MOU) Whitney (I-MOU) is (O) the (O) highest (O) peak (O) in (O) the (O) contiguous (O) United (O) States (O) .
+The (O) Zagros (B-MOU) Mountains (I-MOU) run (O) through (O) Iran (O) and (O) Iraq (O) .
+Mount (B-MOU) Puncak (I-MOU) Jaya (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Oceania (O) .
+The (O) Hindu (B-MOU) Kush (I-MOU) mountains (O) extend (O) across (O) Afghanistan (O) and (O) Pakistan (O) .
+Mount (B-MOU) Ararat (I-MOU) is (O) located (O) in (O) Turkey (O) and (O) is (O) traditionally (O) associated (O) with (O) Noah's (O) Ark (O) .
+The (O) Green (B-MOU) Mountains (I-MOU) are (O) a (O) prominent (O) range (O) in (O) Vermont (O) , (O) USA (O) .
+Mount (B-MOU) Kilimanjaro (I-MOU) is (O) the (O) tallest (O) mountain (O) in (O) Africa (B-LOC) .
+The (O) Andes (B-MOU) mountain (I-MOU) range (O) runs (O) through (O) South (B-LOC) America (I-LOC) .
+Mount (B-MOU) Fuji (I-MOU) in (O) Japan (B-LOC) is (O) an (O) iconic (O) stratovolcano (O) .
+The (O) Alps (B-MOU) are (O) known (O) for (O) their (O) stunning (O) landscapes (O) in (O) Europe (B-LOC) .
+K2 (B-MOU) is (O) the (O) second (O) highest (O) peak (O) in (O) the (O) world (O) .
+Mount (B-MOU) Elbrus (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Europe (B-LOC) .
+Denali (B-MOU) is (O) the (O) highest (O) mountain (O) in (O) North (B-LOC) America (I-LOC) .
+The (O) Rocky (B-MOU) Mountains (I-MOU) stretch (O) across (O) the (O) United (B-LOC) States (I-LOC) and (O) Canada (B-LOC) .
+The (O) Himalayas (B-MOU) are (O) home (O) to (O) many (O) of (O) the (O) world's (O) highest (O) peaks (O) .
+The (O) Appalachian (B-MOU) Mountains (I-MOU) are (O) located (O) in (O) the (O) eastern (O) United (B-LOC) States (I-LOC) .
+Mount (B-MOU) Vinson (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Antarctica (B-LOC) .
+The (O) Carpathian (B-MOU) Mountains (I-MOU) form (O) an (O) arc (O) across (O) Central (B-LOC) Europe (I-LOC) .
+Mount (B-MOU) Aconcagua (I-MOU) is (O) the (O) highest (O) peak (O) in (O) South (B-LOC) America (I-LOC) .
+The (O) Pyrenees (B-MOU) mountains (I-MOU) separate (O) France (B-LOC) and (O) Spain (B-LOC) .
+The (O) Ural (B-MOU) Mountains (I-MOU) mark (O) the (O) boundary (O) between (O) Europe (B-LOC) and (O) Asia (B-LOC) .
+The (O) Atlas (B-MOU) Mountains (I-MOU) span (O) across (O) North (B-LOC) Africa (I-LOC) .
+Mount (B-MOU) Kosciuszko (I-MOU) is (O) the (O) highest (O) peak (O) in (O) Australia (B-LOC) .
+The (O) Sierra (B-MOU) Nevada (I-MOU) range (O) is (O) renowned (O) for (O) its (O) stunning (O) landscapes (O) in (O) California (B-LOC) .
+Mount (B-MOU) McKinley (I-MOU) , also (O) known (O) as (O) Denali (B-MOU) , towers (O) over (O) Alaska (B-LOC) .
+The (O) Caucasus (B-MOU) Mountains (I-MOU) stretch (O) between (O) the (O) Black (B-LOC) Sea (I-LOC) and (O) the (O) Caspian (B-LOC) Sea (I-LOC) .
