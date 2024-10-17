@@ -4,6 +4,7 @@ from torch.utils.data import random_split
 from transformers import AutoTokenizer, AutoModelForTokenClassification, DataCollatorForTokenClassification, Trainer, TrainingArguments
 
 best_dir = None
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 def input_function(v_type,text,error_text, if_in = None): #function for user input
     var = input(text)
@@ -17,7 +18,7 @@ def input_function(v_type,text,error_text, if_in = None): #function for user inp
     except Exception as e:
         print(e)
         print(error_text)
-        input_function(v_type,text,error_text,if_in)
+        return input_function(v_type,text,error_text,if_in)
 
 save = input_function(str ,"Are you want to save best epoch model separatly, best please type yes/no: ", "Please type yes or no",['yes','no'])
 
@@ -25,17 +26,22 @@ if save == 'no':
     output_dir = input_function(str,"Please enter a output directory: ",'')
 if save == 'yes':
     best_dir = input_function(str,"Please enter a output directory for best save: ",'')
-    output_dir = input_function(str,"Please enter a output directory for apoch saves: ",'') 
+    output_dir = input_function(str,"Please enter a output directory for epoch saves: ",'') 
 
 learning_rate = input_function(float ,"Please enter a learning rate: ", "it must be a number, can be in format xe-n")                
 batch_size = input_function(int ,"Please enter a batch size: ", "it must be a number")      
 num_train_epochs= input_function(int ,"Please enter a epoch number: ", "it must be a number")                 
-device = input_function(str ,"Please enter a device: ", "it must be a cuda or cpu",['cuda','cpu']) 
 dataset = input_function(load_from_disk,"Please enter a path to dataset: ","it must be a valid path")
 
 #load the model and tokenizer
-tokenizer = AutoTokenizer.from_pretrained("dslim/distilbert-NER")
-model = AutoModelForTokenClassification.from_pretrained("dslim/distilbert-NER")
+tokenizer = input_function(
+    AutoTokenizer.from_pretrained,  # Load a pretrained tokenizer
+    "Please enter a path to a model: ",  # Prompt message for user input
+    "it must be a valid path"  # Error message if the input is invalid
+)
+
+# Load a pretrained model for token classification using the tokenizer's path
+model = AutoModelForTokenClassification.from_pretrained(tokenizer.name_or_path)
 
 old_classifier = model.classifier  # Save the old classifier(last layer of the model)
 

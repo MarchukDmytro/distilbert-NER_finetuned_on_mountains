@@ -1,8 +1,11 @@
 import os
 import json
+import torch
 import numpy as np
 from datetime import datetime
 from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 def input_function(v_type,text,error_text, if_in = None): #function for user input
     var = input(text)
@@ -16,7 +19,7 @@ def input_function(v_type,text,error_text, if_in = None): #function for user inp
     except Exception as e:
         print(e)
         print(error_text)
-        input_function(v_type,text,error_text,if_in)
+        return input_function(v_type,text,error_text,if_in)
 
 def convert_floats(obj):
     if isinstance(obj, np.float32):  # Convert float32 to float
@@ -36,13 +39,6 @@ tokenizer = input_function(
 # Load a pretrained model for token classification using the tokenizer's path
 model = AutoModelForTokenClassification.from_pretrained(tokenizer.name_or_path)
 
-# Get the device type (CPU or CUDA) from user input
-device = input_function(
-    str,  # Expecting a string input
-    "Please enter a device: ",  # Prompt message for user input
-    "it must be a cuda or cpu",  # Error message if the input is invalid
-    ['cuda', 'cpu']  # Valid options for device
-)
 
 # Prompt user for the output directory where results will be saved
 output_dir = input("Please enter a output directory: ")
@@ -62,7 +58,7 @@ output = pipe(data)
 
 # Generate a timestamp to create a unique filename
 current_time = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
-filename = "output_" + current_time  # Create a filename using the current timestamp
+filename = "output_" + current_time+'.json'  # Create a filename using the current timestamp
 
 # Save the NER output to a JSON file
 with open(filename, 'w') as json_file:
