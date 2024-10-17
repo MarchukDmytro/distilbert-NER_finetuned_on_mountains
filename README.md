@@ -31,13 +31,16 @@ ner_results = nlp(example)
 print(ner_results)
 ```
 
-Or you can just download inference_model.py run it and follow instructions
+Or you can just download inference_model.py, run it and follow the instructions
 
 ## Training data
 
 This model was fine-tuned on English castom arteficial dataset with sentances wich contains mountains. 
 
 As in the dataset, each token will be classified as one of the following classes:
+Print the cuda or cpu for device
+print directory for output or just press enter for current directory
+print the sentence
 
 Abbreviation|Description
 -|-
