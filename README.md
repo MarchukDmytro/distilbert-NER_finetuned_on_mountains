@@ -14,7 +14,7 @@ pipeline_tag: token-classification
 The Model itself [here](https://huggingface.co/dimanoid12331/distilbert-NER_finetuned_on_mountines).
 
 It is fine-tuned [DistilBERT-NER](https://huggingface.co/dslim/distilbert-NER) model with the classifier replaced to increase the number of classes from 9 to 11. Two additional classes is I-MOU and B-MOU what stands for mountine.
-Inital new classifier inherited all weights and biases from original and add new beurons wirh weights initialized wirh xavier_uniform_
+Inital new classifier inherited all weights and biases from original and add new neurons with weights initialized by xavier_uniform_ function.
 
 #### How to use
 
