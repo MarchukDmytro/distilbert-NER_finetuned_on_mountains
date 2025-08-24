@@ -13,7 +13,7 @@ pipeline_tag: token-classification
 ---
 The Model itself [here](https://huggingface.co/dimanoid12331/distilbert-NER_finetuned_on_mountines).
 
-It is fine-tuned [DistilBERT-NER](https://huggingface.co/dslim/distilbert-NER) model with the classifier replaced to increase the number of classes from 9 to 11. Two additional classes is I-MOU and B-MOU what stands for mountine.
+It is fine-tuned [DistilBERT-NER](https://huggingface.co/dslim/distilbert-NER) model with the classifier replaced to increase the number of classes from 9 to 11. Two additional classes is I-MOU and B-MOU what stands for mountains.
 Inital new classifier inherited all weights and biases from original and add new neurons with weights initialized by xavier_uniform_ function.
 
 #### How to use
@@ -23,8 +23,8 @@ This model can be utilized with the Transformers *pipeline* for NER, similar to 
 ```python
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from transformers import pipeline
-tokenizer = AutoTokenizer.from_pretrained("dimanoid12331/distilbert-NER_finetuned_on_mountines")
-model = AutoModelForTokenClassification.from_pretrained("dimanoid12331/distilbert-NER_finetuned_on_mountines")
+tokenizer = AutoTokenizer.from_pretrained("dimanoid12331/distilbert-NER_finetuned_on_mountains")
+model = AutoModelForTokenClassification.from_pretrained("dimanoid12331/distilbert-NER_finetuned_on_mountains")
 nlp = pipeline("ner", model=model, tokenizer=tokenizer)
 example = "My name is Wolfgang and I live in Berlin"
 ner_results = nlp(example)
